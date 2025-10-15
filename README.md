@@ -1,4 +1,4 @@
-<h2 align="center">Hi, my name is Bia 👋  <br>I write code, drink coffee, and sometimes think I'm a bug 🐛</h2>
+<h2 align="center">Hi, my name is Beatriz 👋  <br>I write code, drink coffee, and sometimes think I'm a bug 🐛</h2>
 
 ###
 

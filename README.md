@@ -133,9 +133,9 @@ Always learning 🚀
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=91zbia&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=91zbia&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=91zbia&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=91zbia&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
@@ -143,27 +143,7 @@ Always learning 🚀
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=91zbia&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=91zbia&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</div>
-
----
-
-# 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/91zbia/91zbia/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://streak-stats.demolab.com?user=91zbia&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -177,7 +157,11 @@ Always learning 🚀
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="SEU_LINK_LINKEDIN">
+<a href="mailto:beatrizbarboza.dev@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="COLOQUE_SEU_LINK_DO_LINKEDIN_AQUI">
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 

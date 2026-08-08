@@ -8,7 +8,7 @@
 
 ---
 
-# 🤖 BIA SYSTEM
+# BIA SYSTEM
 
 ```bash
 ╭────────────────────────────╮
@@ -24,12 +24,12 @@ Initializing...
 ✔ VS Code connected
 ✔ GitHub synchronized
 
-STATUS: CODING ☕
+STATUS: CODING 
 ```
 
 ---
 
-# 💻 System Information
+# System Information
 
 ```javascript
 const Beatriz = {
@@ -86,7 +86,7 @@ const Beatriz = {
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -96,19 +96,19 @@ const Beatriz = {
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-| 🚀 Projeto | 💡 Descrição |
+| Projeto | Descrição |
 |------------|-------------|
-| 🔥 Fire Help | Sistema de monitoramento e prevenção de incêndios |
-| 🍽️ Cardápio Bia | Projeto Full Stack com Flask |
-| 🌐 Web Sites | Coleção de sites desenvolvidos para estudos |
-| 💻 Projetos de Treino | Exercícios e desafios de programação |
-| 🎮 Caça Tesouro | Projeto desenvolvido em C |
+| Fire Help | Sistema de monitoramento e prevenção de incêndios |
+| Cardápio Bia | Projeto Full Stack com Flask |
+| Web Sites | Coleção de sites desenvolvidos para estudos |
+| Projetos de Treino | Exercícios e desafios de programação |
+| Caça Tesouro | Projeto desenvolvido em C |
 
 ---
 
-# 📖 Current Mission
+# Current Mission
 
 ```bash
 > Loading objectives...
@@ -124,12 +124,12 @@ const Beatriz = {
 [████████░░] Web Development
 
 STATUS:
-Always learning 🚀
+Always learning 
 ```
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -149,7 +149,7 @@ Always learning 🚀
 
 ---
 
-# 🌎 Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -171,7 +171,7 @@ Always learning 🚀
 
 <div align="center">
 
-### 💙 Transforming ideas into code, one commit at a time.
+### Transforming ideas into code, one commit at a time.
 
 <img src="https://komarev.com/ghpvc/?username=91zbia&style=for-the-badge&color=2563EB"/>
 

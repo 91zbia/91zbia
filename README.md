@@ -133,17 +133,19 @@ Always learning
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=91zbia&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+[![](https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=91zbia&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+[![](https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![](https://raw.githubusercontent.com/Vickthor1/Vickthor1/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </div>
 
 <br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=91zbia&theme=tokyonight&hide_border=true"/>
+
 
 </div>
 
